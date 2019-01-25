@@ -568,3 +568,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.25-15.56.25:349][835]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.01.25-15.56.56:957][454]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2019.01.25-15.56.58:574][454]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.25-16.00.27:395][130]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-16.00.34:960][694]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-16.00.45:155][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-16.03.03:899][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-16.03.11:682][938]LogSavePackage: Moving '../../../../../Unreal Projects/GGJ/VSWT/Saved/ThirdPersonExampleMap21E959254DD176456036DE85FF339A2A.tmp' to '../../../../../Unreal Projects/GGJ/VSWT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.01.25-16.03.11:998][938]LogSavePackage: Moving '../../../../../Unreal Projects/GGJ/VSWT/Saved/ThirdPersonExampleMap_BuiltData3379D16F425705B60B7A9E9C366F6F7D.tmp' to '../../../../../Unreal Projects/GGJ/VSWT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
