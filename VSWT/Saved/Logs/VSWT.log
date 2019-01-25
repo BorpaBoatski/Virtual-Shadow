@@ -574,3 +574,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.25-16.03.03:899][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.01.25-16.03.11:682][938]LogSavePackage: Moving '../../../../../Unreal Projects/GGJ/VSWT/Saved/ThirdPersonExampleMap21E959254DD176456036DE85FF339A2A.tmp' to '../../../../../Unreal Projects/GGJ/VSWT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.01.25-16.03.11:998][938]LogSavePackage: Moving '../../../../../Unreal Projects/GGJ/VSWT/Saved/ThirdPersonExampleMap_BuiltData3379D16F425705B60B7A9E9C366F6F7D.tmp' to '../../../../../Unreal Projects/GGJ/VSWT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.01.25-16.07.04:656][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-16.07.30:770][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-16.07.43:628][248]Cmd: SELECT NONE
+[2019.01.25-16.07.58:978][ 46]LogSlate: Window 'Source Control Login' being destroyed
+[2019.01.25-16.09.01:526][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-16.09.17:224][702]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.25-16.09.30:529][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-16.09.40:946][729]LogSavePackage: Moving '../../../../../Unreal Projects/GGJ/VSWT/Saved/ThirdPersonExampleMap5E907B28480EF8515E03A083B66E57E8.tmp' to '../../../../../Unreal Projects/GGJ/VSWT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.01.25-16.09.41:106][729]LogSavePackage: Moving '../../../../../Unreal Projects/GGJ/VSWT/Saved/ThirdPersonExampleMap_BuiltData4CFA2527494BDA00BA0156BD6F08D6D7.tmp' to '../../../../../Unreal Projects/GGJ/VSWT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.01.25-16.10.12:821][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AnotherBlueprintTest" FILE="../../../../../Unreal Projects/GGJ/VSWT/Content/Blueprints/AnotherBlueprintTest.uasset" SILENT=true
+[2019.01.25-16.10.12:832][524]LogSavePackage: Moving '../../../../../Unreal Projects/GGJ/VSWT/Saved/AnotherBlueprintTest52B10DE64B82112EB0A1379F1B22BE10.tmp' to '../../../../../Unreal Projects/GGJ/VSWT/Content/Blueprints/AnotherBlueprintTest.uasset'
+[2019.01.25-16.10.12:836][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BlueprintTest" FILE="../../../../../Unreal Projects/GGJ/VSWT/Content/Blueprints/BlueprintTest.uasset" SILENT=true
+[2019.01.25-16.10.12:858][524]LogSavePackage: Moving '../../../../../Unreal Projects/GGJ/VSWT/Saved/BlueprintTest5FB828EB4D76C7D91650E0B5B0D80BF1.tmp' to '../../../../../Unreal Projects/GGJ/VSWT/Content/Blueprints/BlueprintTest.uasset'
